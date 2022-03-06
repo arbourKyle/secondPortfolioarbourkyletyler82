@@ -24,15 +24,7 @@ This portfolio contains the last 3 significant projects I have worked on.
 This product is under the GNU AGPLv3.
 
 ## Usage
-Visit this page
-
-## Contributing
-
-
-## Tests
-
+Visit this page https://arbourkyle.github.io/secondPortfolioarbourkyletyler82/
 
 ## Questions
 https://github.com/arbourKyle 
-
-Reach me at: 
