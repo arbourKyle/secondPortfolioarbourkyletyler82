@@ -18,7 +18,7 @@
 
 ## Description
 This portfolio contains the last 3 significant projects I have worked on.
-![(images/secondPortfolio.jpg)
+![](./images/secondPortfolio.jpg)
 
 ## License
 This product is under the GNU AGPLv3.
